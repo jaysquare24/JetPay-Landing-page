@@ -98,6 +98,7 @@ header{
   background: none;
   border: none;
   cursor: pointer;
+  color: #000000;
 }
 
 .headerButtonsContainer button:last-child{
@@ -283,6 +284,10 @@ button{
 .features-container {
   align-items: center;
 
+}
+
+.features-image.mobile{
+  display: none;
 }
 
 .features img{
@@ -892,6 +897,13 @@ button{
     margin-bottom: 0; 
   }
 
+  .features-image.mobile{
+    display: block;
+  }
+  
+  .features-image.desktop{
+    display: none;
+  }
 
   .features img{
     width: 100%;

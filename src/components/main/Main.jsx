@@ -30,8 +30,9 @@ export const Main = () => {
 
             <section className="features" aria-label="features">
                 <div className="features-container">
-                    <img className="features-image" src="/resources/Image.svg" alt="Features Illustration"/>
-                    <Content 
+                    <img className="features-image desktop" src="/resources/Image.svg" alt="Features Illustration"/>
+                    <img className="features-image mobile" src="/resources/Image-mobile.svg" alt="Features Illustration"/>
+                    <Content
                         title="A fully integrated suite of payments products"   
                         subtitle="Instant Payment. Electronic payments are much faster than the traditional methods of payments."
                         description="Online invoice payment helps companies save time, are faster and save maximum effort for the clients. It also helps in reducing the excessive physical transactions."
