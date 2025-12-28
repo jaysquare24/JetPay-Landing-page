@@ -1,4 +1,4 @@
-import { Header } from "../header";
+import { Header } from "../Header";
 import { HeroContent } from "../HeroContent";
 
 export const HeroContainer = () => {
