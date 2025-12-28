@@ -56,7 +56,7 @@ export const Main = () => {
                         </div>
                     </div>
                     <div className='technology-image-container'>
-                      <img className="technology-image" src="/resources/cards.svg" alt="Technology Illustration"/>
+                      <img className="technology-image" src="/resources/cards.png" alt="Technology Illustration"/>
                     </div>
                 </div>
             </section>

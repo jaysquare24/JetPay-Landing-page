@@ -8,7 +8,7 @@ export const HeroContainer = () => {
             <Header />
             <HeroContent />
             <div className="hero-image-container">
-            <img className="hero-image" src="/resources/hero-image.svg" alt="Model and card image"/>
+            <img className="hero-image" src="/resources/hero-image.png" alt="Model and card image"/>
             </div>
         </section>
     );
