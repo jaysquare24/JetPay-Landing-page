@@ -31,7 +31,7 @@ export const Main = () => {
             <section className="features" aria-label="features">
                 <div className="features-container">
                     <img className="features-image desktop" src="/resources/Image.svg" alt="Features Illustration"/>
-                    <img className="features-image mobile" src="/resources/Image-mobile.svg" alt="Features Illustration"/>
+                    <img className="features-image mobile" src="/resources/Image-mobile.png" alt="Features Illustration"/>
                     <Content
                         title="A fully integrated suite of payments products"   
                         subtitle="Instant Payment. Electronic payments are much faster than the traditional methods of payments."
