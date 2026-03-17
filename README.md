@@ -1,10 +1,10 @@
-## 🧱 Component Structure Overview
+## Component Structure Overview
 
 This project is a **React-based landing page** built with reusable components for clarity, scalability, and maintainability. The UI is divided into logical sections such as Hero, Services, Features, Technology, Statistics, CTA, and Footer.
 
 ---
 
-## 🦸 Hero Section
+##  Hero Section
 
 ### `HeroContainer`
 
@@ -16,7 +16,7 @@ The `HeroContainer` component renders the top section of the landing page. It in
 - Displays the hero content and main illustration
 
 
-## 🧠 Main Content Area
+##  Main Content Area
 
 ### `Main`
 
@@ -26,7 +26,7 @@ The `Main` component houses all primary sections of the landing page. It is comp
 
 ### Sections Included
 
-#### 🔹 Services Section
+####  Services Section
 
 Highlights key services offered by the platform using icons and descriptive text:
 - Solve Problems Real Time
@@ -35,12 +35,12 @@ Highlights key services offered by the platform using icons and descriptive text
 
 ---
 
-#### 🔹 Features Section
+####  Features Section
 Showcases a core product feature alongside an illustration and supporting content.
 
 ---
 
-#### 🔹 Technology Section
+#### Technology Section
 Explains the technology behind the platform and includes:
 - Supporting content
 - Author testimonial
@@ -54,7 +54,7 @@ Displays key metrics and platform statistics in a concise and visually engaging 
 
 ---
 
-#### 🔹 Call-To-Action (CTA) Section
+####  Call-To-Action (CTA) Section
 Encourages users to take action with:
 - Clear messaging
 - Call-to-action buttons
@@ -62,7 +62,7 @@ Encourages users to take action with:
 
 Buttons currently trigger a placeholder alert: "Feature not added yet/ Functionality not added yet"
 
-## ♻️ Reusable Component
+##  Reusable Component
 
 ### `Content`
 
@@ -76,7 +76,7 @@ This approach ensures consistency across sections and keeps the codebase clean a
 
 ---
 
-## 🧾 Footer
+## Footer
 
 ### `Footer`
 
@@ -87,7 +87,7 @@ The `Footer` component concludes the landing page with:
 - Copyright notice
 - Design credit
 
-## ♿ Accessibility
+## Accessibility
 
 The application follows accessibility best practices to improve usability for all users:
 - Semantic HTML elements (`header`, `main`,`section`, `footer`)
@@ -96,7 +96,7 @@ The application follows accessibility best practices to improve usability for al
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 The project was built using the following technologies:
 - **React**
@@ -105,7 +105,7 @@ The project was built using the following technologies:
 - **Reusable Component Architecture**
 
 
-## 🎨 Design Credit
+## Design Credit
 
 UI design inspired by **Sark (Figma)**.
 

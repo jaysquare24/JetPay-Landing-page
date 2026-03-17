@@ -49,7 +49,7 @@ export const Main = () => {
                         />   
                         <p className='tech-author-comment'>“Simply the best. Better than all the rest. Recommend this product to beginners and advanced users.”</p>
                         <div className="technology-author-info">
-                            <img className="author-image" src="/resources/ellipse.svg" alt="Author Avatar"/>
+                            <img className="author-image" src="/resources/ellipse.png" alt="Author Avatar"/>
                             <div className="author-details">
                                 <p className="author-name">Trevor Lane</p>
                                 <p className="author-position">Director of Technology, CreativeGIG</p>
